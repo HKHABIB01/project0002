@@ -1,0 +1,73 @@
+/*laptop layout*/
+@media only screen and (min-width:200px) and (max-width:991px) {
+.logo_area{width: 23%;}    
+.main_menu{width: 100%;}  
+.child_work { width: 21.8%;}   
+.social_area ul li a i {padding: 6px;}   
+.social_area {margin-top: 45px;}   
+.child_side {width: 20.4%;;}    
+}
+
+
+/*Tablet layout*/
+@media only screen and (min-width:200px) and (max-width:991px) {
+.mini_menu {width: 57%;}   
+.search_area {width: 43%;}
+.inner_menu { min-height: 0px; background: none; padding: 0px 0; border-radius: 0px;}
+.main_menu ul li {margin-left: 3px;}   
+.main_menu{width: 71%}
+#hero_area h2 {font-size: 26px; padding-top: 67px;}   
+#hero_area p {margin-left: 508px;} 
+#hero_area a {margin-left: 20px;}   
+.link_block { width: 21%; margin-right: 25px;}
+.company_details {width: 20%;} 
+.newsletter {width: 23%;}   
+.newsletter input[type="submit"] {width: 46%;} 
+.social_area ul li a i { font-size: 15px; margin-right: 4px;}
+ .social_area {margin-top: 65px;}   
+.child_side img {margin-left: 42px;}
+.child_side { width: 19.4%;}      
+}
+
+/*mobile layout*/
+@media only screen and (min-width:200px) and (max-width:480px){
+.mini_menu {width: 100%; text-align: center;}
+ .search_area { width: 100%;text-align: center;}   
+.search_area input {width: 108px;border-radius: 7px 0 0 7px;padding: 2px 0; font-size: 11px;}  
+.search_area input[type="submit"] {width: 48px;border-radius: 0 7px 7px 0;margin-left: -2.9px;}  
+#main_header { margin-top: 0px;} 
+.logo_area { width: 100%; margin-top: 25px}  
+.main_menu {width: 100%;}
+.main_menu ul li {margin-left: 5px;} 
+ .main_menu ul li a {font-size: 10px;}   
+#hero_area {margin-top: 40px;}  
+#hero_area img {width: 50%;} 
+#hero_area h2 {font-size: 15px;padding-top: 22px;}
+#hero_area p {margin-left: 209px; font-size: 11px;} 
+#hero_area a { margin-left: 203px;font-size: 11px;}
+.child_side { width: 98%;margin-bottom: 40px;}    
+.child_side img {margin: 0px;}  
+.middle_work p {font-size: 12px;}
+.child_work { width: 98%; margin-bottom: 20px;}    
+.form_blog {width: 98%;} 
+.link_block {width: 98%;}
+.company_details {width: 98%;}   
+.newsletter { width: 98%;}  
+.newsletter input {width: 70%;}
+.newsletter input[type="submit"] { width: 24%;}
+.social_area { margin-top: 30px;}   
+}
+
+
+/*mobile layout (galaxy s5)*/
+
+
+
+
+
+
+
+
+
+
+
